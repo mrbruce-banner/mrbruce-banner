@@ -11,8 +11,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
 💡 **Front-end developer & Cybersecurity learner**  
-🔍 Passionate about # Front-end developer
-📈 Skilled in // python //javascript //css //html //sql //linux 
+🔍 Passionate about # Front-end developer<br>
+📈 Skilled in:  <b style="color: yellow;">python </b><b style="color: blue;">Java<b style="color: red;">Script</b></b><b style="color: green;">Html</b><b style="color:lightseagreen ;">Css</b> 
 
 ---
 
