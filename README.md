@@ -16,8 +16,20 @@
 📈 Skilled in:| python | javascript | css | html | sql | linux 
 
 ---
+🎯“Skills Graph” 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehatboy005&layout=compact&theme=radical" />
+</p>
+
+
+---
 
 ## 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Power_point-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -36,6 +48,9 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green"/>
 </p>
 
+
+
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -44,10 +59,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:karthi005@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
   <a href="mailto:karthi05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/karthi005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/karthi_005"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -59,3 +77,7 @@
 <p align="center">
   <img src="https://github.com/whitehatboy005/whitehatboy005/blob/output/github-snake-dark.svg"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=whitehatboy005&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+
