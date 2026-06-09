@@ -160,3 +160,68 @@ Mission Status : ACTIVE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </p>
+### 🔥 Cybersecurity Banner
+
+```html
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+</p>
+```
+
+### 💻 Hacker GIF
+
+```html
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500">
+</p>
+```
+
+### 🌐 Matrix Rain
+
+```html
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ5M0Yz4Q0/giphy.gif" width="700">
+</p>
+```
+
+### ⚡ Cybersecurity Section
+
+````markdown
+## 🔐 Cybersecurity Journey
+
+```bash
+Learning:
+├── Linux Fundamentals
+├── Bash Scripting
+├── Python Automation
+├── Web Security Basics
+├── Network Fundamentals
+└── Ethical Hacking
+````
+
+````
+
+### 🚀 Neon Badges
+
+```html
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+````
+
+### ☠️ Hacker Quote
+
+```text
+[ SYSTEM ONLINE ]
+
+> Learn.
+> Build.
+> Secure.
+> Repeat.
+
+STATUS : ACTIVE
+```
+
