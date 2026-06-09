@@ -27,9 +27,22 @@
 
 ## 🛠️ Tech & Tools
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+```markdown
+## 🎯 Skills Overview
+
+| Skill | Level |
+|--------|--------|
+| Python | ██████████░░ 80% |
+| JavaScript | ████████░░░░ 65% |
+| HTML | ██████████░░ 85% |
+| CSS | █████████░░░ 75% |
+| SQL | ████████░░░░ 65% |
+| Linux | █████████░░░ 70% |
+| Bash | ███████░░░░░ 60% |
+| Git | ████████░░░░ 65% |
+| Bootstrap | ████████░░░░ 65% |
+| NumPy | ███████░░░░░ 60% |
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerPoint-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
