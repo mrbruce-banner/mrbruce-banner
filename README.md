@@ -68,7 +68,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=whitehatboy005&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=whitehatboy005&theme=matrix&no-frame=true&no-bg=true"/>
 ---
 
 <p align="center">
