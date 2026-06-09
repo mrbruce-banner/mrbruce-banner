@@ -6,7 +6,6 @@
 
 ---
 
-```html
 <p align="center">
   <img src="hacking-man.gif" width="320" alt="Cyber Security GIF">
 </p>
