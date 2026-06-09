@@ -23,9 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehatboy005&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🛠️ Tech & Tools
 
 ```markdown
 ## 🎯 Skills Overview
@@ -43,6 +40,14 @@
 | Bootstrap | ████████░░░░ 65% |
 | NumPy | ███████░░░░░ 60% |
 ```
+
+---
+
+## 🛠️ Tech & Tools
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerPoint-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
@@ -68,7 +73,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=whitehatboy005&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=whitehatboy005&theme=matrix&no-frame=true&no-bg=true"/>
+
 ---
 
 <p align="center">
