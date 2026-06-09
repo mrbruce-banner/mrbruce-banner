@@ -3,15 +3,19 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700">
 </p>
+
+---
 
 # 👋 Hi, I'm **Karthi**
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
 💡 **Front-End Developer & Cybersecurity Learner**
-🔍 Passionate about Web Development & Security
+🔍 Passionate about Front-End Development & Security Research
+
+📈 **Skills:** Python • JavaScript • CSS • HTML • SQL • Linux
 
 ---
 
@@ -26,7 +30,7 @@ Role      : Front-End Developer
 Learning  : Cybersecurity
 Skills    : HTML, CSS, JavaScript, Python, SQL
 OS        : Linux / Kali Linux
-Status    : Building Projects 🚀
+Status    : Learning & Building 🚀
 ```
 
 ---
@@ -42,11 +46,11 @@ Status    : Building Projects 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=whitehatboy005&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whitehatboy005&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whitehatboy005&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitehatboy005&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -58,34 +62,35 @@ Status    : Building Projects 🚀
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00FF00"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 🔐 Cybersecurity Journey
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whitehatboy005&theme=react-dark&hide_border=true"/>
-</p>
+```text
+[✓] Linux Fundamentals
+[✓] Bash Scripting
+[✓] Python Automation
+[✓] Web Development
+[✓] SQL Databases
+[✓] Cybersecurity Learning
+
+STATUS : ACTIVE
+```
 
 ---
 
@@ -97,24 +102,16 @@ Status    : Building Projects 🚀
 
 ---
 
-## ☠️ Terminal Status
+## 📈 Contribution Activity
 
-```text
-root@karthi:~# system-status
-
-[✓] Front-End Development
-[✓] Python Programming
-[✓] Linux Commands
-[✓] SQL Databases
-[✓] Cybersecurity Learning
-
-Mission Status : ACTIVE
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitehatboy005&theme=react-dark&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
@@ -123,15 +120,15 @@ Mission Status : ACTIVE
 
 <p align="center">
   <a href="mailto:karthickkarthick78631@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/karthi005">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://www.instagram.com/black_hat_boy_005">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -146,82 +143,11 @@ Mission Status : ACTIVE
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whitehatboy005&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=whitehatboy005&label=Profile%20Views&color=00ff00&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ⚡ LEARN • BUILD • IMPROVE • REPEAT ⚡
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 </p>
-### 🔥 Cybersecurity Banner
-
-```html
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
-</p>
-```
-
-### 💻 Hacker GIF
-
-```html
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500">
-</p>
-```
-
-### 🌐 Matrix Rain
-
-```html
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ5M0Yz4Q0/giphy.gif" width="700">
-</p>
-```
-
-### ⚡ Cybersecurity Section
-
-````markdown
-## 🔐 Cybersecurity Journey
-
-```bash
-Learning:
-├── Linux Fundamentals
-├── Bash Scripting
-├── Python Automation
-├── Web Security Basics
-├── Network Fundamentals
-└── Ethical Hacking
-````
-
-````
-
-### 🚀 Neon Badges
-
-```html
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-````
-
-### ☠️ Hacker Quote
-
-```text
-[ SYSTEM ONLINE ]
-
-> Learn.
-> Build.
-> Secure.
-> Repeat.
-
-STATUS : ACTIVE
-```
-
