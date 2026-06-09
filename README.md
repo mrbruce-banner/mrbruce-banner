@@ -6,6 +6,13 @@
 
 ---
 
+```html
+<p align="center">
+  <img src="hacking-man.gif" width="320" alt="Cyber Security GIF">
+</p>
+```
+
+
 # 👋 Hi, I'm **Karthi**
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
