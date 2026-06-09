@@ -1,6 +1,9 @@
+html
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF7F&center=true&vCenter=true&width=800&height=45&lines=Frontend+Developer;Cybersecurity+Learner;Linux+Enthusiast;Python+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://media.tenor.com/your-gif-link.gif" width="800" alt="Cyber Security Animation"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700">
